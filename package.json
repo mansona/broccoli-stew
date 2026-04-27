@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/stefanpenner/broccoli-stew",
   "engines": {
-    "node": "8.* || >= 10.*"
+    "node": "20.* || 22.* || >= 24.*"
   },
   "dependencies": {
     "broccoli-debug": "^0.6.5",
